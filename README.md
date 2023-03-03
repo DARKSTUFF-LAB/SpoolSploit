@@ -14,7 +14,7 @@ Although not required, if you would like to host malicious DLLs or conduct crede
 ### Create and access the SpoolSploit Docker container
 1. Clone this repository
 ```
-git clone https://github.com/BeetleChunks/SpoolSploit
+git clone https://github.com/YAHYA950/SpoolSploit
 ```
 2. Build the SpoolSploit Docker container image
 ```
